@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./confidential_automation_ga_sap_mlb/confidential_functions_lib",
+        "./confidential_automation_ga_sap_mlb/confidential_functions_lib"
+    ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/confidential_automation_create_dynamic_folders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_engineering_ks13_report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_engineering_ks13_reporting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_ga_sap_mlb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_ga_sap_mlb/confidential_functions_lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_ga_segment_report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_module_functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_segment_report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_selling_sap_mlb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_automation_selling_segment_report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/confidential_migration_database_sql_scripts_trusted" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/embdigital-confidential-ga-segment-report" vcs="Git" />
+  </component>
+</project>
